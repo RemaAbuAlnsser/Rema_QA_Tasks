@@ -16,6 +16,7 @@ cy.get(".form-group").first()
 cy.get(".form-group").eq(1)
 cy.get(".form-group").last()
 cy.get("[type='submit']")
+//cy.get ()
 
     });
     
